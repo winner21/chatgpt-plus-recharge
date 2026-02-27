@@ -3,6 +3,7 @@
 ![v2-b41fc7d7161dba141794d2f5087db8de_1440w](https://github.com/user-attachments/assets/7e402f18-bb9e-46dd-a453-e7f4373979e8)
 
 靠谱代充入口：https://ai.iamshuaidi.com/chatgpt?ref=ahzk
+
 （温馨提示：无论选择哪种充值方式，都不要轻易将账号密码、API Key 等敏感信息交给陌生人，避免造成账号被盗或资金损失。）
 
 一、为什么选择代充？
